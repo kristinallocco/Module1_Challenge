@@ -8,3 +8,5 @@ The purpose of this project was to determine the correlation, or lack there of, 
 ## Analysis and Challenges
 
 ## Results
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/85713470/122619900-911d0200-d05f-11eb-84ee-6b3f710a8a54.png)
