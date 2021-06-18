@@ -14,14 +14,14 @@ In regards to challenges I faced, the first that comes to mind is the grouping o
 
 ## Results
 
-### Outcomes by launch Month
+### *Outcomes by launch Month*
 
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/85713470/122620013-dd684200-d05f-11eb-8bdd-c358ffac8977.png)
 
-### Outcomes by Fundraising Goals*
+### *Outcomes by Fundraising Goals*
 
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/85713470/122619900-911d0200-d05f-11eb-84ee-6b3f710a8a54.png)
 
-### Limitations of the Data
+### *Limitations of the Data*
